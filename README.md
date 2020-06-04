@@ -1,7 +1,8 @@
 A ordem de estudo deste material poderia ser
 
+Estes links são aptos apenas quando repositorio for clonado.
 # Comentários
-[veja](../lib/comentario.dart)
+[veja](./lib/comentario.dart)
 
 # Variáveis
 
